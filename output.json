@@ -1,0 +1,26 @@
+{
+    "count": 6172,
+    "name": "nathaniel",
+    "country": [
+        {
+            "country_id": "NG",
+            "probability": 0.17632453512718907
+        },
+        {
+            "country_id": "GH",
+            "probability": 0.08304361297013127
+        },
+        {
+            "country_id": "NE",
+            "probability": 0.07164615880444838
+        },
+        {
+            "country_id": "US",
+            "probability": 0.032019319698424385
+        },
+        {
+            "country_id": "ID",
+            "probability": 0.02637540425400123
+        }
+    ]
+}
